@@ -23,8 +23,7 @@ The collaborative filtering recommendation system is implemented using numpy and
 * numpy
 
 ## Results
-Sure, here is the data you provided in a markdown table:
-
+The results of both methods are in the table bellow, note that user-user was a bit better for this case, but only a little. The margins will help to make sure a estimated rating will be good enouth.
 | Metric      | User-User | Item-Item |
 | ----------- | --------- | --------- |
 | Lower Bound | -0.934    | -0.974    |
