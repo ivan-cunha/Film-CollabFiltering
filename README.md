@@ -3,7 +3,7 @@
 This project aims to build a movie recommendation system using collaborative filtering. Collaborative filtering is a popular technique in recommendation systems that relies on user-item interactions to make predictions and recommendations. In this case, the system leverages user ratings of movies to suggest new movies to users based on the preferences of similar users.
 
 ## Introduction
-Collaborative filtering is a method that makes automatic predictions (filtering) about the preferences of a user by collecting preferences from many users (collaborating). In the context of movie recommendation, it means suggesting movies to a user based on the preferences and ratings of similar users. There are two main types of collaborative filtering: user-based and item-based. There are 2 notebooks, each with one implementation. The more detailed notebook is the implementation with user-user.
+Collaborative filtering is a method that makes automatic predictions (filtering) about the preferences of a user by collecting preferences from many users (collaborating). In the context of movie recommendation, it means suggesting movies to a user based on the preferences and ratings of similar users. There are two main types of collaborative filtering: user-based and item-based. There are 2 notebooks, each with one implementation. The more detailed notebook is the implementation with user-user. The implementations are not the most eficient or fastest. This was done with the intent to study the algorithm, not to be implemented in a real world situation.
 
 ## How it Works
 ### User-Based Collaborative Filtering
